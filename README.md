@@ -1,2 +1,2 @@
 # AnotherShare
-just at test reposotory for trying stuff in git on github
+just a test reposotory for trying stuff in git on github
